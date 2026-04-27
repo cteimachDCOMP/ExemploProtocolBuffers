@@ -18,7 +18,7 @@
           <archive>
             <manifest>
               <mainClass>
-                  br.ufs.dcomp.ExemploProtocolBuffers.ExemploSerializacao
+                  br.ufs.dcomp.ExemploProtocolBuffers.ExemploDeserializacao
               </mainClass>
             </manifest>
           </archive>

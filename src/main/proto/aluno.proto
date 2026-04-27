@@ -17,6 +17,13 @@ message Telefone {
    Tipo   tipo   = 2;
 }   
 
+message Endereco{
+    string rua = 0;
+    int Numero = 1;
+    string Bairro = 2;
+    int CEP = 4;
+}
+
 enum Tipo {
    MOVEL    = 0;
    CASA     = 1;
